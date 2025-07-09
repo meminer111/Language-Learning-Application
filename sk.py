@@ -1,0 +1,2 @@
+
+my_sk = "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"
